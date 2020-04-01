@@ -1,7 +1,3 @@
-# Linked-List
-
-Linked List imeplementation in Javascript to use in projects
-
 // Class usage
 
 let linkedList = require('./linkedlist');
