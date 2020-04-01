@@ -4,7 +4,7 @@ Linked List imeplementation in Javascript to use in projects
 
 // Class usage
 
-let linkedList = require('./linkedlist');
+  let linkedList = require('./linkedlist');
 
 let ll = new linkedList();
 
