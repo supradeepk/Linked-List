@@ -1,6 +1,6 @@
 # Linked-List
 
-Linked List imeplementation in Javascript to use in projects
+Linked List imleplementation in Javascript to use in projects
 
 // Class usage
 
